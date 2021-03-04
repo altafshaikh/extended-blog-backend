@@ -5,8 +5,8 @@ A Blog backend built using express server in NodeJS and  mongoDB atlas is used t
 
 ## Getting Started
 
-- [Check the frontend application of the app](https://github.com/ialtafshaikh/blog-frontend)
-- [Check the authentication backend code for the blog](https://github.com/ialtafshaikh/authentication-backend)
+- [Check the frontend application of the app](https://github.com/altafshaikh/blog-frontend)
+- [Check the authentication backend code for the blog](https://github.com/altafshaikh/nodejs-authentication-backend)
 
 ## Features
 
@@ -29,7 +29,7 @@ A Blog backend built using express server in NodeJS and  mongoDB atlas is used t
 ### Downloading and Running this Project Locally
 1. clone the repository
 ```
-git clone https://github.com/ialtafshaikh/blog-backend.git
+git clone https://github.com/altafshaikh/extended-blog-backend.git
 ```
 2. add a ``.env`` file inside the root folder
 ```
@@ -74,10 +74,6 @@ To Host the Project I had used **Heroku Platform**.
 To learn more [refer this gist](https://gist.github.com/ialtafshaikh/8336df5d417109b12c46bd20ccda4e17)
 
 
-## Live Demo of this Project
-
-[hosted backend server](https://extented-node-blog-backend.herokuapp.com/)
-
 ## References
 
 - [mongoose quick start](https://mongoosejs.com/docs/index.html)
@@ -94,7 +90,7 @@ To learn more [refer this gist](https://gist.github.com/ialtafshaikh/8336df5d417
 
 ## Author
 
-* **Altaf Shaikh** - *work by* - [ialtafshaikh](https://github.com/ialtafshaikh)
+* **Altaf Shaikh** - *work by* - [altafshaikh](https://github.com/altafshaikh)
 
 ![altaf shaikh](https://raw.githubusercontent.com/ialtafshaikh/static-files/master/coollogo_com-327551664.png)
 
